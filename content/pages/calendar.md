@@ -1,0 +1,23 @@
+---
+content_type: page
+title: Calendar
+uid: 976b405e-f4ba-2d57-7cb5-720bb016b3bd
+---
+
+For a complete list of assignments please go to the [Assignments]({{< baseurl >}}/pages/assignments) section.
+
+| WEEK # | TOPICS | PREPARATION FOR FOLLOWING WEEK |
+| --- | --- | --- |
+| 1 |  {{< br >}}{{< br >}} Introductions: instructors and students identify personal, intellectual, and professional interests and introduce themselves: {{< br >}}{{< br >}} a) In relation to the course title and description. {{< br >}}{{< br >}} b) By formulating questions in response to the Paper Tiger Video, "Donna Haraway Reads National Geographic on Primates." (1989) {{< br >}}{{< br >}} First look at "KAQ" (Knowledge claims-Actions that follow Questions for Inquiry) framework for teasing out diverse inquiries, in this case inquiries based on students' initial responses to the video. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Complete syllabus treasure hunt {{< br >}}{{< br >}} Read Case 1: Haraway and the Paper Tiger video. {{< br >}}{{< br >}} Use KQ of KAQ to identify questions for further inquiry. {{< br >}}{{< br >}}  |
+| 2 |  {{< br >}}{{< br >}} Probing each other's KAQs on the Haraway case {{< br >}}{{< br >}} Discussion of questions raised about requirements, the wiki, and the syllabus. {{< br >}}{{< br >}} Check-in (= succinct reports) on findings from inquiry between classes. {{< br >}}{{< br >}} Introduction to the "Actions that follow" part of KAQ. {{< br >}}{{< br >}} Workshop on generating questions, inquiring into them, and designing the resource guide required by case 1 {{< br >}}{{< br >}}  | Prepare guides teaching/engaging others to interpret the cultural dimensions of science (for case 1). |
+| 3 |  {{< br >}}{{< br >}} Case 1, continued. {{< br >}}{{< br >}} Presentation of guides for teaching/engaging others to interpret the cultural dimensions of science. {{< br >}}{{< br >}}  | Read case 2: The Werskey case |
+| 4 |  {{< br >}}{{< br >}} Case 2: The Werskey case {{< br >}}{{< br >}} Probing each other's KAQs and in-class research with coaching by the instructors. {{< br >}}{{< br >}}  | Continue research and prepare work-in progress presentations. |
+| 5 |  {{< br >}}{{< br >}} Case 2, continued. {{< br >}}{{< br >}} Presentations on Werskey work-in-progress assignment towards next week's visit. {{< br >}}{{< br >}} (Preparing work-in-progress presentations, hearing yourself deliver them, and getting feedback usually leads to self-clarification of the overall direction of your project and of your priorities for further work.) {{< br >}}{{< br >}}  | Continue research and prepare presentation to the GCWS panel. |
+| 6 |  {{< br >}}{{< br >}} Presentations to the GCWS Panel with Q&A on process and products. {{< br >}}{{< br >}}  | Begin case 3: Genomics |
+| 7 |  {{< br >}}{{< br >}} Case 3: Genomics {{< br >}}{{< br >}} Initial thinking by students, followed by mini lectures by instructors on the intersection of genomics, gender, race, and STS. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Progress report by email & check-in with instructors by phone about step 2 and ideas for guides. {{< br >}}{{< br >}} Start final projects and prepare paragraph overview of project. {{< br >}}{{< br >}}  |
+| 8 | Case 3: presentation of guides on genomics | &nbsp; |
+| 9 |  {{< br >}}{{< br >}} Case 3: continuation of presentations of guides, and synthesis activity. {{< br >}}{{< br >}} Works-in progress presentations for final projects. {{< br >}}{{< br >}}  | Prepare as requested by the pre-circulated materials from the presenters. |
+| 10 | Presentation of drafts of grant proposals, teaching cases, syllabi, curriculum units, etc. The class will act as a jury to review and ask questions. | Prepare as requested by the pre-circulated materials from the presenters. |
+| 11 | Continuation of presentation of drafts of grant proposals, teaching cases, syllabi, curriculum units, etc. The class will act as a jury to review and ask questions. | Prepare as requested by the pre-circulated materials from the presenters. |
+| 12 |  {{< br >}}{{< br >}} Continuation of presentation of drafts of grant proposals, teaching cases, syllabi, curriculum units, etc. The class will act as a jury to review and ask questions (cont.). {{< br >}}{{< br >}} Draft report due on final product {{< br >}}{{< br >}}  | Draft of peer commentary. |
+| 13 |  {{< br >}}{{< br >}} Final presentations {{< br >}}{{< br >}} Taking stock of the course: where have we come and where do we go from here? {{< br >}}{{< br >}}  |
